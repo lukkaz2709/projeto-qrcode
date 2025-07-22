@@ -1,0 +1,25 @@
+{
+  "name": "projeto-qrcode",
+  "version": "1.0.0",
+  "description": "kit de utilidades para e-commerce, com foco em geração de QR Code",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukkaz2709/projeto-qrcode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukkaz2709/projeto-qrcode/issues"
+  },
+  "homepage": "https://github.com/lukkaz2709/projeto-qrcode#readme",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "prompt": "^1.3.0"
+  }
+}
